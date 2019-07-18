@@ -14,7 +14,7 @@ Criar um sistema em que um personagem fica em cima de uma plataforma. Esse proje
 ### Recursos
 Sprites: [Game Art 2D](https://gameart2d.com)
 
-![Pudim](http://pudim.com.br/pudim.jpg)
+![Unity](logo-unity.png)
 
 >Se a vida não ficar mais fácil, trate de ficar mais forte.
 

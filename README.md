@@ -1,6 +1,6 @@
 # Personagem Plataforma
 
-Por: ***[Guto Xavier](www.linkedin.com/in/gutoxavier)***
+Por: ***[Guto Xavier](https://www.linkedin.com/in/gutoxavier)***
 
 Projeto desenvolvido utilizando à *Game Engine* Unity.
 

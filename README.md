@@ -20,6 +20,6 @@ Sprites: [Game Art 2D](https://gameart2d.com)
 
 *Exemplo de comando:*
 
-``
+```
 Debug.Log("teste");
-``
+```

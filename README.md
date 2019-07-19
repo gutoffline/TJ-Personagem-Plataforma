@@ -16,10 +16,3 @@ Sprites: [Game Art 2D](https://gameart2d.com)
 
 ![Unity](logo-unity.png)
 
->Se a vida não ficar mais fácil, trate de ficar mais forte.
-
-*Exemplo de comando:*
-
-```
-Debug.Log("teste");
-```
